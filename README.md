@@ -1,6 +1,5 @@
 
----
-```markdown
+
 # 🎥 YouTube Manager CLI App
 
 This is a simple **YouTube Video Manager** CLI-based Python application that allows users to **Add**, **View**, **Update**, and **Delete** video details. All data is stored persistently in a `youtube.txt` file using JSON format.
@@ -113,4 +112,4 @@ Data is stored in JSON format:
 Feel free to contribute or suggest improvements!
 
 
-```
+
